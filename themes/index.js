@@ -462,6 +462,13 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+  my_transparent: {
+    title_color: "FFFFFF",
+    icon_color: "0579C3",
+    text_color: "417E87",
+    bg_color: "ffffff00",
+    border_color: "ffffff00",
+  },
 };
 
 export default themes;
